@@ -1,3 +1,4 @@
+-- create database
 CREATE DATABASE infrastructure
     WITH
     OWNER = test

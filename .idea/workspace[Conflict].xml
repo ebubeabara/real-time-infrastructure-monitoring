@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07c49f83-42ea-4211-a536-b0bd56eb22de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/create_postgres_database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/create_postgres_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/create_postgres_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kafka_consumer_mongo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kafka_consumer_postgres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kafka_producer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d5ae5ae1-4410-4112-80b3-3a83bf95ac96" />
+  <component name="ProjectId" id="1rdC2CM4dqCZDbQ48zaPrpoxMgA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Work/E/.search/2021/Mako" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ebube\Documents\Code\GitHub\real-time-infrastructure-monitoring\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="kafka_producer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="real-time-infrastructure-monitoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/kafka_producer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kafka_producer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07c49f83-42ea-4211-a536-b0bd56eb22de" name="Default Changelist" comment="" />
+      <created>1619296370636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619296370636</updated>
+      <workItem from="1619296371773" duration="6184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619301159394">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832/-1920.0.1920.1050@0.0.1536.832" timestamp="1619301159394" />
+    <state x="-1180" y="280" key="FileChooserDialogImpl" timestamp="1619296522567">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1180" y="280" key="FileChooserDialogImpl/0.0.1536.832/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1619296522567" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1619301142871">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832/-1920.0.1920.1050@0.0.1536.832" timestamp="1619301142871" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1619301142871">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.832/-1920.0.1920.1050@0.0.1536.832" timestamp="1619301142871" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1619301142871">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.832/-1920.0.1920.1050@0.0.1536.832" timestamp="1619301142871" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1619301142871">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.832/-1920.0.1920.1050@0.0.1536.832" timestamp="1619301142871" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/real_time_infrastructure_monitoring$kafka_producer.coverage" NAME="kafka_producer Coverage Results" MODIFIED="1619301139871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
