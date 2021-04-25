@@ -71,6 +71,18 @@ and presented a chart of the CPU load (and similar metrics) using Power BI.
     * Build or edit report fields and visualisations if required
     * On `Home` tab, click `Refresh` button to load latest CPU usage metrics from PostgreSQL Database
 
+### Metrics Monitored
+
+* CPU Usage Percent
+* Virtual Memory Usage Percent
+* Virtual Memory Usage Available Bytes
+* Virtual Memory Usage Used Bytes
+* Swap Memory Usage Percent
+* Swap Memory Usage Free Bytes
+* Swap Memory Usage Used Bytes
+* Modified Timestamp
+* Computer User
+
 ![Kafka logo](img/kafka-logo.png "Kafka logo")
 
 ![Power BI logo](img/power-bi-logo.png "Power BI logo")
