@@ -1,6 +1,6 @@
-# Real-time CPU Monitoring with Kafka & Power BI
+# Real-time Monitoring with Kafka & Power BI
 
-Real-time CPU usage monitoring with **Kafka** streaming and **Power BI** interactive reports.
+Real-time IT infrastructure monitoring with **Kafka** streaming and **Power BI** interactive reports.
 
 ![CPU and Memory Usage in Percentage](img/cpu-and-memory-usage-in-percentage.PNG "CPU and Memory Usage in Percentage")
 
@@ -35,7 +35,7 @@ and presented a chart of the metrics using Power BI.
 
 ### Implementation High-Level Architecture
 
-![Implementation High-Level Architecture](img/High-Level-Architecture.png "Implementation High-Level Architecture")
+![Implementation High-Level Architecture](img/high-level-architecture.png "Implementation High-Level Architecture")
 
 ### Instructions
 
