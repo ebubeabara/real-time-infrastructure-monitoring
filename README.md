@@ -1,6 +1,6 @@
 # Real-time CPU Monitoring with Kafka & Power BI
 
-Real-time CPU usage monitoring with **Kafka** streaming and **Power BI** interactive reports
+Real-time CPU usage monitoring with **Kafka** streaming and **Power BI** interactive reports.
 
 ![CPU and Memory Usage in Percentage](img/cpu-and-memory-usage-in-percentage.PNG "CPU and Memory Usage in Percentage")
 
@@ -71,7 +71,7 @@ and presented a chart of the metrics using Power BI.
     * Build or edit report fields and visualisations if required
     * On `Home` tab, click `Refresh` button to load latest CPU usage metrics from PostgreSQL Database
 
-### Metrics Monitored
+### Infrastructure Time Series Properties
 
 * CPU Usage Percent
 * Virtual Memory Usage Percent
