@@ -1,4 +1,4 @@
-# Real-time Infrastructure Monitoring with Kafka & Power BI
+# Real-time CPU Monitoring with Kafka & Power BI
 
 Real-time CPU usage monitoring with **Kafka** streaming and **Power BI** interactive reports
 
