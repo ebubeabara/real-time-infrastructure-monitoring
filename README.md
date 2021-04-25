@@ -2,7 +2,11 @@
 
 Real-time CPU usage monitoring with Kafka streaming and Power BI interactive reports
 
-## Summary
+![CPU and Memory Usage in Percentage](img/cpu-and-memory-usage-in-percentage.PNG "CPU and Memory Usage in Percentage")
+
+![Virtual and Swap Memory in Bytes](img/virtual-and-swap-memory-in-bytes.PNG "Virtual and Swap Memory in Bytes")
+
+## Description
 
 Build a system to take a time series property, such as CPU load as an input. 
 Stream that between a Kafka producer and two Kafka consumers, store the time series values in a MongoDB Database and 
@@ -67,6 +71,6 @@ PostgreSQL Database, and present a chart of the CPU load (or similar metric) usi
     * Build or edit report fields and visualisations if required
     * On `Home` tab, click `Refresh` button to load latest CPU usage metrics from PostgreSQL Database
 
-![Kafka logo](img/kafka-logo-wide.png "Kafka logo")
+![Kafka logo](img/kafka-logo.png "Kafka logo")
 
 ![Power BI logo](img/power-bi-logo.png "Power BI logo")
