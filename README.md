@@ -8,9 +8,9 @@ Real-time CPU usage monitoring with Kafka streaming and Power BI interactive rep
 
 ## Description
 
-Build a system to take a time series property, such as CPU load as an input. 
-Stream that between a Kafka producer and two Kafka consumers, store the time series values in a MongoDB Database and 
-PostgreSQL Database, and present a chart of the CPU load (or similar metric) using Power BI.
+Built a system to take infrastructure time series properties, such as CPU load as an input. 
+Streamed metrics between a Kafka producer and two Kafka consumers (i.e. MongoDB Database and PostgreSQL Database), 
+and presented a chart of the CPU load (and similar metrics) using Power BI.
 
 ### Prerequisites
 
