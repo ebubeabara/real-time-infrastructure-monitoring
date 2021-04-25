@@ -1,6 +1,6 @@
-# Real-time Infrastructure Monitoring
+# Real-time Infrastructure Monitoring with Kafka & Power BI
 
-Real-time CPU usage monitoring with Kafka streaming and Power BI interactive reports
+Real-time CPU usage monitoring with **Kafka** streaming and **Power BI** interactive reports
 
 ![CPU and Memory Usage in Percentage](img/cpu-and-memory-usage-in-percentage.PNG "CPU and Memory Usage in Percentage")
 
